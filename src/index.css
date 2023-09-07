@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.sort-button {
+  border: 1px solid teal;
+  background: teal;
+  color: white;
+  border-radius: 2px;
+  padding: 5px 20px;
+}
